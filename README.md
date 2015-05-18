@@ -5,4 +5,6 @@ This is example Root App which will has many features and this is my first Root 
 
 This is a tutorial app is working fine with Samsung Galaxy s3(my phone :) ) and not tested in other phones.
 
-Tutorial will be on my blog.
+Tutorial on http://themakeinfo.com/2015/05/building-android-root-app/
+
+Credits to Chainfire for Libsuperuser
